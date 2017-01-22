@@ -10,6 +10,7 @@ namespace ConsAppTestGit
   {
     static void Main(string[] args)
     {
+
     }
 
   }
